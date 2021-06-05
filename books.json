@@ -1,0 +1,10 @@
+{
+  "books": [
+    "Science",
+    "Mathematics",
+    "Comics",
+    "History"
+  ],
+  "admin_borrowed": [],
+  "guest_borrowed": []
+}
